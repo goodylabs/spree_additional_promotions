@@ -1,0 +1,9 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+en:
+  spree: 
+    promotion_rule_types:
+      product_count:
+        description: if there are many products of the same kind
+        name: Product count 
+        treshold: Minimum quantity
