@@ -4,9 +4,9 @@ SpreeAdditionalPromotions
 This extension adds new rules (for now only one) to promotion rules:
 - ProductCount ( applies when user buys many examples of the same product)
 
-```
-Rails.application.config.spree.promotions.rules <<  Spree::Promotion::Rules::ProductCount 
-```
+Addition is done automatically:
+ 
+Enjoy!
 
 Installation
 ------------
