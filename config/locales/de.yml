@@ -1,5 +1,5 @@
-en:
+de:
   spree: 
     promotion_rule_types:
       product_count:
-        treshold: "Minimum quantity"
+        treshold: "Mindestmenge"
